@@ -37,7 +37,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 - [github repository site] https://github.com/TakuyaMats/Workout-Tracker.git
 
-- [live site]
+- [live site] https://git.heroku.com/enigmatic-beach-93573.git
 
 <a name="demo"></a>
 
