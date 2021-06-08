@@ -9,6 +9,7 @@ const workoutSchema = new Schema({
     exercises: [{
         type: {
             type: String,
+            trim: true,
             required: "Insert a workout type"
         },
         name: {
